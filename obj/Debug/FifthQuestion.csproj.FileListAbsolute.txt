@@ -1,0 +1,10 @@
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\bin\Debug\FifthQuestion.exe.config
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\bin\Debug\FifthQuestion.exe
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\bin\Debug\FifthQuestion.pdb
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.Form1.resources
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.Properties.Resources.resources
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.exe
+C:\Users\Furkan\Desktop\FifthQuestion\FifthQuestion\obj\Debug\FifthQuestion.pdb
